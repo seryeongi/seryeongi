@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm <b>data scientist<b> using Python.✨ <br/>
-  I'm interested in making decisions based on data.<br/>
-  I enjoy thinking, jogging, reading, watching sport games and movies. :running: 📚 </br>
+  👋 Hi there! I'm <b>data scientist<b> using Python.✨ <br>
+  I'm interested in making decisions based on data.<br>
+  I enjoy thinking, jogging, reading, watching sport games and movies. :running: 📚 <br>
   I wanna be a person who predicts the future with data.🚀 
 </p>
 
