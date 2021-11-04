@@ -1,17 +1,3 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <p>
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:leesa4350@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -19,11 +5,12 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  👋 Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
+
 
 ### 💪 Skills
 #### Platforms & Languages
@@ -43,9 +30,5 @@ Here are some ideas to get you started:
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
