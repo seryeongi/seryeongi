@@ -26,3 +26,5 @@
   <img src="https://img.shields.io/badge/AWS-302683?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={seryeongi})](https://solved.ac/{seryeongi})
