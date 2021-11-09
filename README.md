@@ -27,5 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesa4350)](https://solved.ac/leesa4350/)
-[![Seryeong's github stats](https://github-readme-stats.vercel.app/api?username=seryeongi&show_icons=true&theme=tokyonight)](https://github.com/seryeongi/github-readme-stats)
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesa4350">
+  [![Seryeong's github stats](https://github-readme-stats.vercel.app/api?username=seryeongi&show_icons=true&theme=tokyonight)](https://github.com/seryeongi/github-readme-stats)
+</p>
