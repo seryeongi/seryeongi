@@ -27,4 +27,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={seryeongi})](https://solved.ac/{seryeongi})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leesa4350})](https://solved.ac/{leesa4350})
