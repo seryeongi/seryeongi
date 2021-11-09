@@ -29,5 +29,5 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesa4350">
-  [![Seryeong's github stats](https://github-readme-stats.vercel.app/api?username=seryeongi&show_icons=true&theme=tokyonight)](https://github.com/seryeongi/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=seryeongi&show_icons=true&theme=tokyonight">
 </p>
