@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm a data scientist.✨ <br>
-  I'm interested in making decisions based on data.<br>
+  👋 Hi there!✨ <br>
+  I'm interested in programming.<br>
+  Also, I'm interested in making decisions based on data.<br>
   I enjoy thinking, jogging, reading, watching sport games and movies. :running: 📚 <br>
   I wanna be a person who predicts the future with data.🚀 
 </p>
