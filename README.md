@@ -28,7 +28,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesa4350">
-  <img src="https://github-readme-stats.vercel.app/api?username=seryeongi&show_icons=true&theme=tokyonight">
-</p>
